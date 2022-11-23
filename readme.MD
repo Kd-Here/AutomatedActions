@@ -46,9 +46,8 @@ Runners are hosted in the cloud but they can also be [self-hosted](https://docs.
 
 
 <hr>
-
-  <h2 id="Sec-1">Implementations Started</h2>
-  Copy implement form https://betterprogramming.pub/github-actions-in-action-3b10083cc700 
+<h2 id="Sec-1">Implementations Started</h2>
+Copy implement form https://betterprogramming.pub/github-actions-in-action-3b10083cc700 
 How he created what are events on is use for event creat that here.
 <p>
 ```
